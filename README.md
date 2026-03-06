@@ -1,0 +1,2 @@
+# areachat-config
+areachat-config
